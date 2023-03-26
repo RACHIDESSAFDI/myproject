@@ -1,8 +1,10 @@
 h1{
     color: rgb(97, 100, 59);
     font-size:30px;
+    
 }
 
 body{
     background-color: rgb(235, 13, 1);
+    font-family:arial;
 }
